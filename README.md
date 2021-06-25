@@ -3,6 +3,7 @@
 * 编译
 * 架构
 * 特性
+* 性能
 ### 编译
 ```
  git clone https://github.com/KyleAndKelly/MyWebServer.git
