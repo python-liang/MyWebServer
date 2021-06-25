@@ -6,7 +6,7 @@
 * 性能
 ### 编译
 ```
- git clone https://github.com/KyleAndKelly/MyWebServer.git
+ git clone https://github.com/python-liang/MyWebServer.git
 cd MyWebServer/version_1.0/&&mkdir build&&cd build
 cmake ..
 cd ../bin
