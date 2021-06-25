@@ -2,7 +2,6 @@
 ## 引言
 * 编译
 * 架构
-* 源码
 * 特性
 ### 编译
 ```
@@ -21,9 +20,6 @@ cd ../bin
  其中线程池中工作线程取用任务队列里面的任务
 也就是进行http报文分析 报文响应时候的流程如下
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200312224128436.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZqaGdoamdoag==,size_16,color_FFFFFF,t_70)
-
-### 源码
-详细的源码讲解请看注释
 
 
 ### 特性
